@@ -1,10 +1,11 @@
 # ทีมฟุตบอลที่ชอบ
-## Liverpool
+## LIVERPOOL
 # รหัสนักศึกษา
 ## 57122420146
 # ชื่อ-นามสกุล
 ## Rittikorn Saisang
-
+# ชื่อเล่น
+## Bank
 # Header 1
 ## Header 2
 ### Header 3
